@@ -23,21 +23,25 @@ Download the latest release
 $ git clone https://github.com/danielsylvinson/OverlApp.git
 ```
 
-Install dependencies:
-
-```
-$ pip install pyqt5
-$ pip install numpy
-$ pip install cubature
-$ pip install orbkit
-```
-
 ## Dependencies
 - Python (> 3.6)
 - Numpy
 - PyQt5 (For GUI)
 - ORBKIT
 - Cubature
+
+
+Install dependencies:
+
+To install ORBKIT, follow the instructions in the [ORBKIT page](https://orbkit.github.io/install.html)
+
+To install other dependencies:
+```
+$ pip install pyqt5
+$ pip install numpy
+$ pip install cubature
+```
+
 
 ## Usage
 Run the following command to invoke GUI window
