@@ -22,7 +22,7 @@ $ git clone https://github.com/danielsylvinson/OverlApp.git
 ```
 
 ## Dependencies
-- Python (> 3.6)
+- Python (> 3.7)
 - Numpy
 - PyQt5 (For GUI)
 - ORBKIT
