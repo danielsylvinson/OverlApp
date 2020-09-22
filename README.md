@@ -29,6 +29,7 @@ Install dependencies:
 $ pip install pyqt5
 $ pip install numpy
 $ pip install cubature
+$ pip install orbkit
 ```
 
 ## Dependencies
