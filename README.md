@@ -33,7 +33,7 @@ $ git clone https://github.com/danielsylvinson/OverlApp.git
 
 Install dependencies:
 
-To install ORBKIT, follow the instructions in the [ORBKIT page](https://orbkit.github.io/install.html)
+To install ORBKIT, follow the instructions in the [ORBKIT installation page](https://orbkit.github.io/install.html)
 
 To install other dependencies:
 ```
